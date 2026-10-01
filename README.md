@@ -28,7 +28,7 @@ I build AI systems and web products -- autonomous agents, RAG pipelines, AI-powe
 
 | Project | Description |
 |---------|-------------|
-| [PFA Agentic System](https://github.com/Marouan333/pfa-agentic-system) | Agentic AI for a real-estate platform: planning, tool use, memory, and evaluation |
+| [PFA Agentic System](https://github.com/Marouan333/ai-internship) | Agentic AI for a real-estate platform: planning, tool use, memory, and evaluation |
 | [WhatsApp Outreach Tool](https://github.com/Marouan333/sender-maps) | Finds local businesses without a website via Google Maps, sends WhatsApp campaigns automatically |
 | [Medical Appointment System](https://github.com/Marouan333/medical-appointment-management-system) | 6 FastAPI microservices with PostgreSQL, OAuth2/JWT, and Docker |
 | [Diabetes Prediction](https://github.com/Marouan333/Diabetes-prediction) | SVM classifier deployed as an interactive Streamlit app |
