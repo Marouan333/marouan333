@@ -1,25 +1,26 @@
 # Marouan Aarab
 
-**Data Engineer · AI Developer · Web Builder**
+**AI Engineer · Full-Stack Developer**
 
-I build data pipelines, AI agents, and full-stack web products. Founder of [NextGen Build](https://nextgenbuild.ma), a web design and AI automation agency serving local businesses in Morocco.
+I build AI systems and web products -- autonomous agents, RAG pipelines, AI-powered automation tools. Founder of [NextGen Build](https://nextgenbuild.ma), an AI and web agency for local businesses in Morocco.
 
 ---
 
 ## What I build
 
-- **Data Engineering** -- real-time streaming pipelines, ETL, Change Data Capture
-- **AI and ML** -- agentic systems, RAG chatbots, classification and prediction models
-- **Web Development** -- full-stack apps with Next.js, FastAPI, React, and Docker
+- **AI Agents** -- multi-agent systems, planning and memory architectures, tool-use pipelines
+- **RAG and LLMs** -- retrieval-augmented generation, document Q&A, prompt engineering
+- **AI Automation** -- outreach tools, lead generation, business process automation
+- **Full-Stack** -- Next.js, FastAPI, React with AI features integrated end-to-end
 
 ---
 
 ## Stack
 
-**Languages** -- Python, TypeScript, Java, SQL  
-**Data** -- Apache Kafka, Apache Spark, PostgreSQL, Cassandra, Supabase  
-**AI/ML** -- scikit-learn, PyTorch, ChromaDB, LangGraph  
-**Web** -- Next.js, React, FastAPI, Docker, Nginx, AWS
+**AI/ML** -- LangGraph, LangChain, ChromaDB, OpenAI, Anthropic, scikit-learn, PyTorch  
+**Backend** -- Python, FastAPI, PostgreSQL, Supabase, Docker  
+**Frontend** -- TypeScript, Next.js, React, Tailwind CSS  
+**Infra** -- AWS, Railway, Vercel, Kafka, Spark
 
 ---
 
@@ -27,12 +28,12 @@ I build data pipelines, AI agents, and full-stack web products. Founder of [Next
 
 | Project | Description |
 |---------|-------------|
-| [Real-time Data Pipeline](https://github.com/Marouan333/real-time-data-streaming-pipeline) | Weather data stream: Open-Meteo API to Kafka to Spark to Cassandra |
+| [PFA Agentic System](https://github.com/Marouan333/pfa-agentic-system) | Agentic AI for a real-estate platform: planning, tool use, memory, and evaluation |
+| [WhatsApp Outreach Tool](https://github.com/Marouan333/sender-maps) | Finds local businesses without a website via Google Maps, sends WhatsApp campaigns automatically |
 | [Medical Appointment System](https://github.com/Marouan333/medical-appointment-management-system) | 6 FastAPI microservices with PostgreSQL, OAuth2/JWT, and Docker |
-| [WhatsApp Outreach Tool](https://github.com/Marouan333/sender-maps) | Finds businesses without a website via Google Maps, sends WhatsApp campaigns |
-| [Diabetes Prediction](https://github.com/Marouan333/Diabetes-prediction) | SVM classifier on Pima dataset, deployed as a Streamlit app |
-| [ETL Pipeline](https://github.com/Marouan333/ETL-PIPELINE-API) | Extracts CoinGecko data, transforms it, loads to SQL Server on a schedule |
-| [Customer Segmentation](https://github.com/Marouan333/Customers-segmentation) | K-Means clustering on mall customer spending data |
+| [Diabetes Prediction](https://github.com/Marouan333/Diabetes-prediction) | SVM classifier deployed as an interactive Streamlit app |
+| [Real-time Data Pipeline](https://github.com/Marouan333/real-time-data-streaming-pipeline) | Kafka, Spark Streaming, and Cassandra weather pipeline |
+| [ETL Pipeline](https://github.com/Marouan333/ETL-PIPELINE-API) | CoinGecko API to SQL Server with scheduled automation |
 
 ---
 
