@@ -1,60 +1,39 @@
-<h1 align="center">Hi 👋, I'm Marouan Ezbakhe</h1>
-<h3 align="center">A data science and AI engineering student from Morocco</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1kHEgewyUp-ttr19nwwZ7nUUfCEwfYsJE3w&s">
+# Marouan Aarab
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marouan333&label=Profile%20views&color=0e75b6&style=flat" alt="marouan333" /> </p>
+**Data Engineer · AI Developer · Web Builder**
 
-- 🔭 I’m currently working on **Breast cancer prediction**
+I build data pipelines, AI agents, and full-stack web products. Founder of [NextGen Build](https://nextgenbuild.ma), a web design and AI automation agency serving local businesses in Morocco.
 
-- 🌱 I’m currently learning **Deep learning concepts**
+---
 
-- 📫 How to reach me **Ezbakhemarouan@gmail.com**
+## What I build
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marouan-ezbakhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marouan-ezbakhe" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ezbakhemarouan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ezbakhemarouan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/romeo724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="romeo724" height="30" width="40" /></a>
-</p>
+- **Data Engineering** -- real-time streaming pipelines, ETL, Change Data Capture
+- **AI and ML** -- agentic systems, RAG chatbots, classification and prediction models
+- **Web Development** -- full-stack apps with Next.js, FastAPI, React, and Docker
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
+## Stack
 
-<!-- Row 1 -->
-<p align="left">
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-</p>
+**Languages** -- Python, TypeScript, Java, SQL  
+**Data** -- Apache Kafka, Apache Spark, PostgreSQL, Cassandra, Supabase  
+**AI/ML** -- scikit-learn, PyTorch, ChromaDB, LangGraph  
+**Web** -- Next.js, React, FastAPI, Docker, Nginx, AWS
 
-<!-- Row 2 -->
-<p align="left">
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-</p>
+---
 
-<!-- Row 3 -->
-<p align="left">
-  <a href="#"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
-</p>
+## Featured Projects
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marouan333&show_icons=true&locale=en&layout=compact" alt="marouan333" /></p>
+| Project | Description |
+|---------|-------------|
+| [Real-time Data Pipeline](https://github.com/Marouan333/real-time-data-streaming-pipeline) | Weather data stream: Open-Meteo API to Kafka to Spark to Cassandra |
+| [Medical Appointment System](https://github.com/Marouan333/medical-appointment-management-system) | 6 FastAPI microservices with PostgreSQL, OAuth2/JWT, and Docker |
+| [WhatsApp Outreach Tool](https://github.com/Marouan333/sender-maps) | Finds businesses without a website via Google Maps, sends WhatsApp campaigns |
+| [Diabetes Prediction](https://github.com/Marouan333/Diabetes-prediction) | SVM classifier on Pima dataset, deployed as a Streamlit app |
+| [ETL Pipeline](https://github.com/Marouan333/ETL-PIPELINE-API) | Extracts CoinGecko data, transforms it, loads to SQL Server on a schedule |
+| [Customer Segmentation](https://github.com/Marouan333/Customers-segmentation) | K-Means clustering on mall customer spending data |
+
+---
+
+Fes, Morocco -- [nextgenbuild.ma](https://nextgenbuild.ma) -- [Book a call](https://cal.com/nextgen-build-1w8iab/30min)
