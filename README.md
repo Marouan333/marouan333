@@ -1,4 +1,4 @@
-# Marouan Aarab
+# Marouan Ezbakhe
 
 **AI Engineer · Full-Stack Developer**
 
